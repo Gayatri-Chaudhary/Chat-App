@@ -61,4 +61,4 @@ if(process.env.NODE_ENV !== "production"){
 }
 
 // export index for vercel
-export default index;
+export default server;
